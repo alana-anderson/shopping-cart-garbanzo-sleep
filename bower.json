@@ -1,0 +1,22 @@
+{
+  "name": "code-challenge-frontend-api",
+  "description": "Casper's code challenge for applicants",
+  "main": "routes/index.js",
+  "authors": [
+    "Alana Anderson"
+  ],
+  "license": "UNLICENSED",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
